@@ -1,0 +1,11 @@
+{
+  "name": "Easy Paperless Post Sending",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Easy Paperless Post Sending",
+  "homepage_url": "https://www.paperlesspost.com",
+  "browser_action": {
+    "default_icon": "hermes_image.png",
+    "default_popup": "popup.html"
+  }
+}
